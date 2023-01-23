@@ -1,3 +1,8 @@
+---
+title: Jeedom | Plugin Mitsubishi MELCloud
+description: Plugin pour PAC Mitsubishi
+---
+
 # Description :
 
 Plugin permettant de communiquer avec les pompes à chaleur (PAC) de la marque Mitsubish, qui sont reliés à leurs serveurs MELCloud.

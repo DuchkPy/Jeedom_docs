@@ -1,8 +1,8 @@
-# <p align="center">Documentation of Jeedom plugins made by DuchkPy</p>
+# Documentation of Jeedom plugins made by DuchkPy
 
 
 ## 🛠️ Plugin 
- - Mitsubishi MELCloud : [code](https://github.com/DuchkPy/mitsubishimelcloud) / [forum](https://community.jeedom.com/t/recherche-beta-testeurs-pour-plugin-mitsubishi-melcloud/91899)
+ - Mitsubishi MELCloud : [documentation](https://duchkpy.github.io/Jeedom_docs/mitsubishimelcloud/fr_FR/index) | [changelong](https://duchkpy.github.io/Jeedom_docs/mitsubishimelcloud/fr_FR/changelog) | [code](https://github.com/DuchkPy/mitsubishimelcloud) | [forum](https://community.jeedom.com/t/recherche-beta-testeurs-pour-plugin-mitsubishi-melcloud/91899)
 
 
 
