@@ -1,3 +1,8 @@
+---
+title: Jeedom | Plugin Mitsubishi MELCloud
+description: Changelong plugin pour PAC Mitsubishi
+---
+
 # TODO
  - Ajouter les PAC air/eau (si vous en possédez une, merci de me contacter)
  - Ajouter la prise en charge des scénarios

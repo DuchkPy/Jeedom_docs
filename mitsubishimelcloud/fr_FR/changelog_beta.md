@@ -1,3 +1,8 @@
+---
+title: Jeedom | Plugin Mitsubishi MELCloud
+description: Changelog bêta plugin pour PAC Mitsubishi
+---
+
 # TODO
  - Ajouter les PAC air/eau (si vous en possédez une, merci de me contacter)
  - Mettre à jour la gestion du cron
