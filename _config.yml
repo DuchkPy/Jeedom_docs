@@ -1,0 +1,22 @@
+theme: jekyll-theme-slate
+
+title: Documentation of Jeedom plugins made by DuchkPy
+description: Documentations Jeedom
+
+author:
+  name: DuchkPy
+
+languages: ["en", "fr"]
+defaultLang: fr
+languageNames:
+  fr: Français
+  en: English
+
+plugins:
+  - jemoji
+  - jekyll-seo-tag
+
+# Markdown Settings
+markdown: CommonMark
+commonmark:
+  options: ["SMART", "FOOTNOTES", "UNSAFE"]
