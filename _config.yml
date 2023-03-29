@@ -2,7 +2,7 @@ remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme
 
-title: Documentation plugins Jeedom by DuchkPy
+title: Documentation of DuckPy Jeedom plugins
 description: Documentations Jeedom
 
 author:
@@ -17,6 +17,8 @@ languageNames:
 plugins:
   - jemoji
   - jekyll-seo-tag
+
+show_downloads: false
 
 # Markdown Settings
 markdown: CommonMark
