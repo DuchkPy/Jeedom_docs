@@ -4,13 +4,18 @@ description: Changelog bêta plugin pour PAC Mitsubishi
 ---
 
 # TODO
- - Ajouter les PAC air/eau (si vous en possédez une, merci de me contacter)
  - Mettre à jour la gestion du cron
     - Gestion de la fréquence configurable
  - Ajouter la possibilité de choisir quel élément du widget afficher ou non (parmi `Scénario`, `Mode`, `Vitesse de ventilation`, `Ailettes horizontales`, `Ailettes verticales`, `Température`, `Météo`)
+ - Ajouter la prise en charge des scénarios
+ - Ajouter la création d'équipements globaux (pour agir sur plusieurs équipements)
 
-# 20/01/2023 (1.0)
- - Mise à jour d'informations pour la mise place de la version stable
+# 24/03/2023 (0.12)
+ - Correction d'un bug cassant le fonctionnement du plugin lors de la mise à jour.
+
+# 24/03/2023 (0.11)
+ - Mise en place des PaC air/eau en version Beta
+ - Ajout de l'information des puissances consommées.
 
 # 17/01/2023 (0.10)
  - Mise en place du template mobile
