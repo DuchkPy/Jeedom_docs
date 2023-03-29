@@ -1,6 +1,7 @@
 ---
-title: Jeedom | Plugin Mitsubishi MELCloud
+title: Mitsubishi MELCloud plugin Jeedom
 description: Documentation plugin pour PAC Mitsubishi
+page.title: Mitsubishi MELCloud plugin Jeedom
 ---
 
 # Description :

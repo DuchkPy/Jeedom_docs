@@ -4,14 +4,17 @@
 @import "{{ site.theme }}";
 
 .wrapper {
-    width: 1000px;
-    margin: 0 auto;
+    width: 1200px;
 }
 
-header footer {
+header {
     width: 300px;
 }
 
 section {
-    width: 675px;
+    width: 875px;
+}
+
+footer {
+    width: 300px;
 }
