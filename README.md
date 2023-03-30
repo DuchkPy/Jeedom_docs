@@ -3,10 +3,10 @@
 
 ## 🛠️ Plugins 
  - Mitsubishi MELCloud :
-    - [documentation](https://duchkpy.github.io/Jeedom_docs/mitsubishimelcloud/fr_FR/index)
-    - [changelog](https://duchkpy.github.io/Jeedom_docs/mitsubishimelcloud/fr_FR/changelog)
-    - [code](https://github.com/DuchkPy/mitsubishimelcloud)
-    - [forum](https://community.jeedom.com/t/recherche-beta-testeurs-pour-plugin-mitsubishi-melcloud/91899)
+    - Documentation : Stable [Fr](https://duchkpy.github.io/Jeedom_docs/mitsubishimelcloud/fr_FR/index) ; [En](https://duchkpy.github.io/Jeedom_docs/mitsubishimelcloud/en_US/index) / Bêta [Fr](https://duchkpy.github.io/Jeedom_docs/mitsubishimelcloud/fr_FR/index_beta) ; [En](https://duchkpy.github.io/Jeedom_docs/mitsubishimelcloud/en_US/index_beta)
+    - Changelog : Stable [Fr](https://duchkpy.github.io/Jeedom_docs/mitsubishimelcloud/fr_FR/changelog) ; [En](https://duchkpy.github.io/Jeedom_docs/mitsubishimelcloud/en_US/changelog) / Bêta [Fr](https://duchkpy.github.io/Jeedom_docs/mitsubishimelcloud/fr_FR/changelog_beta) ; [En](https://duchkpy.github.io/Jeedom_docs/mitsubishimelcloud/en_US/changelog_beta)
+    - Code : [Stable](https://github.com/DuchkPy/mitsubishimelcloud) ; [Beta]()
+    - Forum : [Actualité](https://community.jeedom.com/t/recherche-beta-testeurs-pour-plugin-mitsubishi-melcloud/91899) ; pour toutes questions, merci d'ouvrir un sujet avec le tag #plugin-mitsubishimelcloud.
 
 
 
