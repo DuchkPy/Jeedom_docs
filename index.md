@@ -1,4 +1,7 @@
-# Documentation des plugins Jeedom développé par DuckPy
+---
+title: Documentation des plugins Jeedom développé par DuckPy
+description: Documentation plugin pour PAC Mitsubishi
+---
 
 
 ## 🛠️ Plugins 
