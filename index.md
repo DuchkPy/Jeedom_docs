@@ -15,7 +15,7 @@ description: Documentation plugin pour PAC Mitsubishi
     - Documentation&nbsp;: Stable [Fr](https://duchkpy.github.io/Jeedom_docs/plugin-github/fr_FR/index) ; [En](https://duchkpy.github.io/Jeedom_docs/plugin-github/en_US/index)
     - Changelog&nbsp;: Stable [Fr](https://duchkpy.github.io/Jeedom_docs/plugin-github/fr_FR/changelog) ; [En](https://duchkpy.github.io/Jeedom_docs/plugin-github/en_US/changelog)
     - Code&nbsp;: [Stable](https://github.com/DuchkPy/plugin-github/tree/master) ; [Beta](https://github.com/DuchkPy/plugin-github/tree/beta)
-    - Forum&nbsp;: [Actualité](https://community.jeedom.com/t/nouveau-plugin-github/45152) ; pour toutes questions, merci d'ouvrir un sujet avec le tag *[#plugin-mitsubishimelcloud][https://community.jeedom.com/tag/plugin-github]*.
+    - Forum&nbsp;: [Actualité](https://community.jeedom.com/t/nouveau-plugin-github/45152) ; pour toutes questions, merci d'ouvrir un sujet avec le tag *[#plugin-github][https://community.jeedom.com/tag/plugin-github]*.
 
 
 # 🙇 Author
