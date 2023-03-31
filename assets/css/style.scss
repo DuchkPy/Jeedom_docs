@@ -35,11 +35,6 @@ footer {
 }
 
 nav {
-  width: 230px;
-  position: fixed;
-  top: 220px;
-  left: 50%;
-  margin-left: -580px;
   text-align: right
 }
 
@@ -47,7 +42,9 @@ nav ul {
   list-style: none;
   list-style-image: none;
   font-size: 14px;
-  line-height: 24px
+  line-height: 24px;
+  margin-right: 10px;
+  margin-left: -30px;
 }
 
 nav ul li {
