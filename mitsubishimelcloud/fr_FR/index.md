@@ -1,6 +1,7 @@
 ---
 title: Mitsubishi MELCloud plugin Jeedom
 description: Documentation plugin pour PAC Mitsubishi
+logo: mitsubishimelcloud_icon.png
 ---
 
 # Description&nbsp;:

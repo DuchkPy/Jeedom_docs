@@ -1,3 +1,9 @@
+---
+title: GitHub plugin Jeedom
+description: Documentation plugin pour GitHub
+logo: logo.png
+---
+
 # Plugin Github
 
 Plugin permettant de récupérer les informations de votre compte Github ainsi que celles de vos différents repositories.
