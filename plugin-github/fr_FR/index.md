@@ -1,7 +1,7 @@
 ---
 title: GitHub plugin Jeedom
 description: Documentation plugin pour GitHub
-logo: logo.png
+logo: plugin-github/logo.png
 ---
 
 # Plugin Github
