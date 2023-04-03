@@ -1,5 +1,5 @@
 ---
-title: Mitsubishi MELCloud plugin Jeedom
+title: Documentation Mitsubishi MELCloud plugin Jeedom
 description: Documentation plugin pour PAC Mitsubishi
 logo: mitsubishimelcloud/mitsubishimelcloud_icon.png
 ---
@@ -36,8 +36,6 @@ Lors de l'envoi d'une nouvelle valeur (de mode, de température, ...) depuis Jee
 
 # Contribuer&nbsp;:
 Vous déceler un bug, vous voulez proposer une amélioration, n'hésitez pas à le dire sur le forum (avec le tag dédié). Vous pouvez aussi directement faire un PR sur [le dépôt de ce plugin](https://github.com/DuchkPy/mitsubishimelcloud).
-
-Vous disposez d'une PAC air/eau ? Merci de me contacter (via le forum, de préférence), que je puisse mettre à jour le plugin pour prendre en compte cette autre possibilité.
 
 # Remerciement&nbsp;:
 Au travail initié par MGeek pour la retro-ingénierie sur l'app MELCloud [http://mgeek.fr/blog/un-peu-de-reverse-engineering-sur-melcloud](http://mgeek.fr/blog/un-peu-de-reverse-engineering-sur-melcloud) ([archive](https://web.archive.org/web/20220120005605/http://mgeek.fr/blog/un-peu-de-reverse-engineering-sur-melcloud)).

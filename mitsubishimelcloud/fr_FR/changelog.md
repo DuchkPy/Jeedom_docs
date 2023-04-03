@@ -1,6 +1,7 @@
 ---
-title: Jeedom | Plugin Mitsubishi MELCloud
-description: Changelong plugin pour PAC Mitsubishi
+title: Changelog Mitsubishi MELCloud plugin Jeedom
+description: Changelog plugin pour PAC Mitsubishi
+logo: mitsubishimelcloud/mitsubishimelcloud_icon.png
 ---
 
 # TODO
@@ -10,8 +11,5 @@ description: Changelong plugin pour PAC Mitsubishi
  - Ajouter la prise en charge des scénarios
  - Ajouter la création d'équipements globaux (pour agir sur plusieurs équipements)
 
-# 24/03/2023
- - Passage du plugin en version stable
-
-# 20/01/2023 (1.0)
-Publication du plugin en version stable
+# 24/03/2023 (1.0)
+ - Publication du plugin en version stable

@@ -1,6 +1,6 @@
 ---
-title: Documentation bêta Mitsubishi MELCloud plugin Jeedom
-description: Documentation plugin version bêta pour PAC Mitsubishi
+title: Documentation Mitsubishi MELCloud plugin Jeedom for beta version
+description: Documentation plugin Mitsubishi heat pump for beta version
 logo: mitsubishimelcloud/mitsubishimelcloud_icon.png
 ---
 
