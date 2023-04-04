@@ -10,14 +10,17 @@ description: Changelog bêta plugin pour PAC Mitsubishi
  - Ajouter la prise en charge des scénarios
  - Ajouter la création d'équipements globaux (pour agir sur plusieurs équipements)
 
-# 24/03/2023 (0.12)
+# 04/04/2023 (1.03)
+ - Changement des paramètres pour récupérer les données d'énergie pour les pompes à chaleur air/eau.
+
+# 24/03/2023 (1.02)
  - Correction d'un bug cassant le fonctionnement du plugin lors de la mise à jour.
 
-# 24/03/2023 (0.11)
+# 24/03/2023 (1.01)
  - Mise en place des PaC air/eau en version Beta
  - Ajout de l'information des puissances consommées.
 
-# 17/01/2023 (0.10)
+# 17/01/2023 (1.0)
  - Mise en place du template mobile
 
 # 11/01/2023 (V0.9)

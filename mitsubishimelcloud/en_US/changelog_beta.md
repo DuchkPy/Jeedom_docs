@@ -11,14 +11,17 @@ logo: mitsubishimelcloud/mitsubishimelcloud_icon.png
  - Add support for scenarios
  - Add creation of global equipment (to act on multiple equipment)
 
-# 03/24/2023 (0.12)
+# 04/04/2023 (v1.03)
+ - Changing the settings to retrieve energy data for air-to-water heat pumps
+
+# 03/24/2023 (v1.02)
  - Fix a bug breaking the plugin's operation during update.
 
-# 03/24/2023 (0.11)
+# 03/24/2023 (v1.01)
  - Implementation of air/water PaC in Beta version
  - Addition of power consumption information.
 
-# 01/17/2023 (0.10)
+# 01/17/2023 (v1.0)
  - Implementation of the mobile template
 
 # 01/11/2023 (V0.9)

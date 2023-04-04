@@ -4,45 +4,55 @@ description: Documentation plugin Mitsubishi heat pump for beta version
 logo: mitsubishimelcloud/mitsubishimelcloud_icon.png
 ---
 
-# Description&nbsp;:
+# Description:
 
-Plugin permettant de communiquer avec les pompes à chaleur (PAC) de la marque Mitsubish, qui sont reliés à leurs serveurs MELCloud.
+This plugin allows you to communicate with the Mitsubishi heat pumps that are connected to their MELCloud servers.
 
-# Configuration&nbsp;:
-A l'installation du plugin, les paramètres de connexion sont à remplir dans la configuration du plugin&nbsp;:
+# Configuration:
+When installing the plugin, the connection parameters must be entered in the plugin's configuration:
 ![configuration](./Configuration.png?raw=true)
 
-Voici l'ordre des éléments à renseigner&nbsp;:
-1. L'adresse email et le mot de passe utlisé pour se connecter à MELCloud (l'application)
-2. Sauvegarder via le bouton présent sur la ligne `Configuration`
-3. Cliquer sur le bouton `Récupérer le Token MELCloud`
-4. Cliquer sur le bouton `Récupérer les équipements MELCloud`
+Here is the order in which to fill in the information:
+1. The email address and password used to log in to MELCloud (the application)
+2. Save via the button on the `Configuration` line
+3. Click on the `Retrieve MELCloud Token` button
+4. Click on the `Retrieve MELCloud equipment` button
 
-La version de l'application, disponible dans la partie avancée correspond à la version de l'application de MELCloud. Actuellement, même avec une version pas à la dernière version, cela fonctionne. Toutefois, il est possible que cette version vienne à devoir être mise à jour dans le cas d'une grande refonte de la part de Mitsubishi.
-Donc, en l'état, pas besoin de changer cette valeur.
+The application version available in the advanced section corresponds to the version of the MELCloud application. Currently, even with a version not up to date, it works. However, it is possible that this version may need to be updated in the event of a major overhaul by Mitsubishi.
+So, as it stands, there is no need to change this value.
 
-# Création des équipements&nbsp;:
-Dans la configuration, après avoir cliqué sur `Récupérer les équipements MELCloud`, toutes les PAC associés à ce compte sont ajoutées à Jeedom.
-Si vous n'avez pas lancé cette action, ou s'il y a des changements sur les équipements de votre logement, le bouton `Synchroniser` de la page d'accueil du plugin permet de relancer le processus. Aussi, un cron réalise cette action de façon régulière.
+# Creating equipment:
+In the configuration, after clicking on `Retrieve MELCloud equipment`, all the heat pump associated with this account are added to Jeedom.
+If you have not performed this action, or if there are changes to the equipment in your home, the `Synchronize` button on the plugin's home page allows you to restart the process. Also, a cron runs this action regularly.
 
-Il ne vous reste donc qu'à activer et à associer chaque élément au bon objet de votre Jeedom afin de le retrouver (ou non) sur le dashboard.
+You only have to activate and associate each item with the right object in your Jeedom to find it (or not) on the dashboard.
 
-# Widget&nbsp;:
-Une fois créé, chaque équipement sera visible (si demandé) sur le dashboard avec le design suivant&nbsp;:
-![widget](./Widget.png?raw=true)
-Design que j'ai voulu le plus proche possible de l'appli MELCloud, afin de garder les habitudes des personnes ayant déjà celle-ci.
+# Widget:
+Once created, each equipment will be visible (if requested) on the dashboard. I wanted the design to be as close as possible to the MELCloud app, in order to keep the habits of people who already have it.
 
-Lors de l'envoi d'une nouvelle valeur (de mode, de température, ...) depuis Jeedom, des petits points apparaissent à la suite du mot `rafraichir`, indiquant la communication entre Jeedom et votre PAC via les serveurs MELCloud. Ceux-ci disparaissent quand l'échange est terminé, et l'ensemble du widget est mis à jour avec les dernières valeurs d'état de la PAC.
+## Air / air
+![widget](./Widget-ata.png?raw=true)
 
-# Contribuer&nbsp;:
-Vous déceler un bug, vous voulez proposer une amélioration, n'hésitez pas à le dire sur le forum (avec le tag dédié). Vous pouvez aussi directement faire un PR sur [le dépôt de ce plugin](https://github.com/DuchkPy/mitsubishimelcloud).
+## Air / water
+![widget](./Widget-atw.png?raw=true)
 
-# Remerciement&nbsp;:
-Au travail initié par MGeek pour la retro-ingénierie sur l'app MELCloud [http://mgeek.fr/blog/un-peu-de-reverse-engineering-sur-melcloud](http://mgeek.fr/blog/un-peu-de-reverse-engineering-sur-melcloud) ([archive](https://web.archive.org/web/20220120005605/http://mgeek.fr/blog/un-peu-de-reverse-engineering-sur-melcloud)).
-Puis au premier plugin créé par [Floman321](https://github.com/floman321/melcloud), malheureusement plus à jour, que j'ai forké pour continuer à supporter les PAC Mitsubishi.
+When sending a new value (mode, temperature, etc.) from Jeedom, small dots appear after the word 'refresh', indicating communication between Jeedom and your PAC via the MELCloud servers. These disappear when the exchange is finished, and the entire widget is updated with the latest PAC state values.
 
-# Licence&nbsp;:
-Comme voulu par MGeek (voir pied de page de son site web), ce plugin est sous licence [Creative Commons Attribution - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions 4.0 International (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr), donc gratuit.
+# Available commands:
+In addition to what is visible on the widget, there are available commands, which are also saved by default.
+These are the commands indicating the energy consumed or produced by the different modes.
+
+
+# Contribute:
+If you detect a bug or want to suggest an improvement, don't hesitate to mention it on the forum (with the dedicated tag). You can also directly make a PR on [the repository of this plugin](https://github.com/DuchkPy/mitsubishimelcloud).
+
+# Acknowledgements:
+To the work initiated by MGeek for the reverse engineering on the MELCloud app [http://mgeek.fr/blog/un-peu-de-reverse-engineering-sur-melcloud](http://mgeek.fr/blog/un-peu-de-reverse-engineering-sur-melcloud) ([archive](https://web.archive.org/web/20220120005605/http://mgeek.fr/blog/un-peu-de-reverse-engineering-sur-melcloud)).
+Then to the first plugin created by [Floman321](https://github.com/floman321/melcloud), which unfortunately is no longer up to date, that I forked to continue supporting Mitsubishi heat pump.
+
+# License:
+As desired by MGeek (see footer of his website), this plugin is licensed under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/) license, so it is free.
+
 
 # Changelog&nbsp;:
-[Changelog](./changelog.md)
+[Changelog](./changelog_beta.md)

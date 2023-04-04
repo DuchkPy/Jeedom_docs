@@ -28,11 +28,20 @@ If you have not performed this action, or if there are changes to the equipment 
 You only have to activate and associate each item with the right object in your Jeedom to find it (or not) on the dashboard.
 
 # Widget:
-Once created, each equipment will be visible (if requested) on the dashboard with the following design:
-![widget](./Widget.png?raw=true)
-I wanted to keep the design as close as possible to the MELCloud app to maintain the habits of people who already have it.
+Once created, each equipment will be visible (if requested) on the dashboard. I wanted the design to be as close as possible to the MELCloud app, in order to keep the habits of people who already have it.
 
-When sending a new value (mode, temperature, etc.) from Jeedom, small dots appear after the word "refresh", indicating the communication between Jeedom and your heat pump via the MELCloud servers. These disappear when the exchange is complete, and the entire widget is updated with the latest status values.
+## Air / air
+![widget](./Widget-ata.png?raw=true)
+
+## Air / water
+![widget](./Widget-atw.png?raw=true)
+
+When sending a new value (mode, temperature, etc.) from Jeedom, small dots appear after the word 'refresh', indicating communication between Jeedom and your PAC via the MELCloud servers. These disappear when the exchange is finished, and the entire widget is updated with the latest PAC state values.
+
+# Available commands:
+In addition to what is visible on the widget, there are available commands, which are also saved by default.
+These are the commands indicating the energy consumed or produced by the different modes.
+
 
 # Contribute:
 If you detect a bug or want to suggest an improvement, don't hesitate to mention it on the forum (with the dedicated tag). You can also directly make a PR on [the repository of this plugin](https://github.com/DuchkPy/mitsubishimelcloud).
