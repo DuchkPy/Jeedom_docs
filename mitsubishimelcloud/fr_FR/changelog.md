@@ -11,5 +11,9 @@ logo: mitsubishimelcloud/mitsubishimelcloud_icon.png
  - Ajouter la prise en charge des scénarios
  - Ajouter la création d'équipements globaux (pour agir sur plusieurs équipements)
 
+# 02/05/2023 (1.04)
+ - Passage des PAC air/eau en stable
+ - Changement d'emplacement de la documentation et du changelog
+
 # 24/03/2023 (1.0)
  - Publication du plugin en version stable

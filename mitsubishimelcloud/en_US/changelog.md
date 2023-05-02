@@ -11,5 +11,9 @@ logo: mitsubishimelcloud/mitsubishimelcloud_icon.png
 - Add support for scenarios
 - Add creation of global equipment (to act on multiple devices)
 
+# 02/05/2023 (1.04)
+ - Publish in stable version air to water heat pump version
+ - Documentation and changelog path updated
+
 # 03/24/2023 (1.0)
 - Publication of the plugin in stable version

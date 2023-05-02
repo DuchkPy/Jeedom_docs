@@ -11,6 +11,9 @@ logo: mitsubishimelcloud/mitsubishimelcloud_icon.png
  - Add support for scenarios
  - Add creation of global equipment (to act on multiple equipment)
 
+# 02/05/2023 (1.04)
+ - Documentation and changelog path updated
+
 # 04/04/2023 (v1.03)
  - Changing the settings to retrieve energy data for air-to-water heat pumps
 
