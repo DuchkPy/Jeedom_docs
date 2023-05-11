@@ -11,6 +11,9 @@ logo: mitsubishimelcloud/mitsubishimelcloud_icon.png
  - Add support for scenarios
  - Add creation of global equipment (to act on multiple equipment)
 
+# 05/11/2023 (1.06)
+ - Added option to connect to MELCloud servers without SSL certificate verification
+
 # 05/11/2023 (1.05)
  - Bur correction, shadow equipment (mainly called "M") could generate CPU overload.
 
