@@ -11,6 +11,9 @@ logo: mitsubishimelcloud/mitsubishimelcloud_icon.png
 - Add support for scenarios
 - Add creation of global equipment (to act on multiple devices)
 
+# 05/11/2023 (1.05)
+ - Bur correction, shadow equipment (mainly called "M") could generate CPU overload.
+
 # 02/05/2023 (1.04)
  - Publish in stable version air to water heat pump version
  - Documentation and changelog path updated

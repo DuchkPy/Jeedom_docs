@@ -10,6 +10,9 @@ description: Changelog bêta plugin pour PAC Mitsubishi
  - Ajouter la prise en charge des scénarios
  - Ajouter la création d'équipements globaux (pour agir sur plusieurs équipements)
 
+# 11/05/2023 (1.05)
+ - Correction d'un bug, l'enregistrement d'équipements fantôme (souvent appelé "M") pouvait créer une CPU importante.
+
 # 02/05/2023 (1.04)
  - Changement d'emplacement de la documentation et du changelog
 
