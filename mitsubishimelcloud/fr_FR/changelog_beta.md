@@ -4,11 +4,12 @@ description: Changelog bêta plugin pour PAC Mitsubishi
 ---
 
 # TODO
- - Mettre à jour la gestion du cron
-    - Gestion de la fréquence configurable
  - Ajouter la possibilité de choisir quel élément du widget afficher ou non (parmi `Scénario`, `Mode`, `Vitesse de ventilation`, `Ailettes horizontales`, `Ailettes verticales`, `Température`, `Météo`)
  - Ajouter la prise en charge des scénarios
  - Ajouter la création d'équipements globaux (pour agir sur plusieurs équipements)
+
+# 22/05/2023 (1.07)
+ - Ajout de la gestion du cron depuis la configuration (retiré de la ToDo-list)
 
 # 11/05/2023 (1.06)
  - Ajout d'une option pour se connecter aux serveurs MELCloud sans vérification du certificat SSL

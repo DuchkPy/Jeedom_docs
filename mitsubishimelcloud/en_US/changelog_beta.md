@@ -5,11 +5,12 @@ logo: mitsubishimelcloud/mitsubishimelcloud_icon.png
 ---
 
 # TODO
- - Update cron management
-    - Configurable frequency management
  - Add the ability to choose which widget element to display or not (among `Scenario`, `Mode`, `Fan speed`, `Horizontal fins`, `Vertical fins`, `Temperature`, `Weather`)
  - Add support for scenarios
  - Add creation of global equipment (to act on multiple equipment)
+
+# 05/22/2023 (1.07)
+ - Add the possibility to change cron setting on plugin configuration (removed from ToDo-list)
 
 # 05/11/2023 (1.06)
  - Added option to connect to MELCloud servers without SSL certificate verification
