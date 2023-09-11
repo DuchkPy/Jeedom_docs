@@ -9,6 +9,9 @@ logo: mitsubishimelcloud/mitsubishimelcloud_icon.png
  - Add support for scenarios
  - Add creation of global equipment (to act on multiple equipment)
 
+# 11/09/2023 (1.08)
+ - Bug correction on ON / OFF button
+
 # 05/22/2023 (1.07)
  - Add the possibility to change cron setting on plugin configuration (removed from ToDo-list)
 

@@ -8,6 +8,9 @@ description: Changelog bêta plugin pour PAC Mitsubishi
  - Ajouter la prise en charge des scénarios
  - Ajouter la création d'équipements globaux (pour agir sur plusieurs équipements)
 
+# 11/09/2023 (1.08)
+ - Correction d'un bug sur le bouton Marche / Arrêt qui ne fonctionnait pas tout le temps.
+
 # 22/05/2023 (1.07)
  - Ajout de la gestion du cron depuis la configuration (retiré de la ToDo-list)
 
