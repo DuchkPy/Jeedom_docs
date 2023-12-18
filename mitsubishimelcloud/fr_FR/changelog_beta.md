@@ -8,6 +8,9 @@ description: Changelog bêta plugin pour PAC Mitsubishi
  - Ajouter la prise en charge des scénarios
  - Ajouter la création d'équipements globaux (pour agir sur plusieurs équipements)
 
+# 18/12/2023 (1.09)
+ - Rajoute la compatibilité avec Jeedom inférieur à v4.2.
+
 # 11/09/2023 (1.08)
  - Correction d'un bug sur le bouton Marche / Arrêt qui ne fonctionnait pas tout le temps.
 

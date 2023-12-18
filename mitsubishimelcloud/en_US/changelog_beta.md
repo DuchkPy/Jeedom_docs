@@ -9,6 +9,9 @@ logo: mitsubishimelcloud/mitsubishimelcloud_icon.png
  - Add support for scenarios
  - Add creation of global equipment (to act on multiple equipment)
 
+# 12/18/2023 (1.09)
+ - Add the compatibility with Jeedom prior v4.2
+
 # 11/09/2023 (1.08)
  - Bug correction on ON / OFF button
 
